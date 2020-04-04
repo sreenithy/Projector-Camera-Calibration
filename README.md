@@ -1,5 +1,5 @@
 # Projector-Camera-Calibration
-Using structured light to perform Projector-Camera Calibration. The code here is forked from the following git https://github.com/kamino410/procam-calibration
+Using structured light to perform Projector-Camera Calibration. The code here is adapted from the following git https://github.com/kamino410/procam-calibration
 
 
 Inorder to generate the graycode patterns for projector of resolution M,N
